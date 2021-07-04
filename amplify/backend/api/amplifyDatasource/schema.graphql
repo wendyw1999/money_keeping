@@ -1,0 +1,8 @@
+type Item @model {
+  id: ID!
+  title: String!
+  amount: Float!
+  color: String
+  createdAt: String
+  category: String
+}
