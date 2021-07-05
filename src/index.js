@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 
 import 'antd/dist/antd.css'
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import Amplify from '@aws-amplify/core'
 import config from "./aws-exports"
 Amplify.configure(config)
