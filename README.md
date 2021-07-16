@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+
+1. git clone
+2. npm install -g @aws-amplify/cli
+3. amplify configure
+continue to set up region, username and Adminsitrator Access, key and secret key
+4. rm -rf node_modules
+rm -f package-lock.json
+5, npm install react-scripts
+npm install
+6. amplify init
+7. npm run start 
+(localhost:300)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
